@@ -66,11 +66,11 @@ Effective communication is critical for project success. OctoAcme maintains a st
 - Documentation (docs/ folder) for persistent knowledge
 
 **Artifact Maintenance Cadence**:
-- **Project Charter**: Update when scope, timeline, or team changes; review monthly
-- **Risk Register**: Review weekly in PM/PdM sync; update as new risks emerge
-- **Roadmap**: Update after sprint planning or when priorities shift
-- **Retrospective Notes**: Document after every retro; track action item completion
-- **Release Notes**: Update during sprint; finalize before deployment
+- **Project Charter**: Update when scope, timeline, or team changes; PM reviews monthly
+- **Risk Register**: Review weekly in PM/PdM sync; PM updates as new risks emerge
+- **Roadmap**: PdM updates after sprint planning or when priorities shift
+- **Retrospective Notes**: Scrum Master documents after every retro; PM tracks action item completion
+- **Release Notes**: Developers/PM update during sprint; DevOps finalizes before deployment
 
 For communication best practices, see [Risks and Communication](octoacme-risks-and-communication.md).
 

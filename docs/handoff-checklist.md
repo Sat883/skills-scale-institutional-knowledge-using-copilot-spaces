@@ -160,7 +160,7 @@ Use this template to structure handoff meetings:
 
 - [ ] **Handoff notes distributed** - Summary of handoff meeting, decisions, and action items shared
 - [ ] **Support channel established** - Slack channel, email alias, or meeting cadence for transition support
-- [ ] **Check-in scheduled** - 1-week and 1-month check-ins to ensure successful transition
+- [ ] **Check-in scheduled** - PM or Scrum Master schedules 1-week and 1-month check-ins to ensure successful transition
 - [ ] **Lessons learned captured** - Handoff process feedback documented for future improvements
 - [ ] **Formal closure** - Handoff officially closed once receiving team confirms no further support needed
 

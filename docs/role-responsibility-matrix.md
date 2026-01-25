@@ -35,7 +35,7 @@ This matrix defines who is **Responsible**, **Accountable**, **Consulted**, and 
 | Resource planning | R | C | I | C | C | I | I | C | C |
 | Identify dependencies | R | C | C | C | R | C | C | R | I |
 | Sprint planning | C | C | I | R | R | C | C | C | I |
-| Design user journeys | C | C | C | I | I | I | A | I | C |
+| Design user journeys | C | C | C | I | I | I | R/A | I | C |
 | Create wireframes/mockups | C | C | I | I | C | I | R/A | I | C |
 
 ## Execution Phase
@@ -45,7 +45,7 @@ This matrix defines who is **Responsible**, **Accountable**, **Consulted**, and 
 | Daily standups | I | I | I | R/A | R | R | R | C | I |
 | Implement features | I | C | C | C | R/A | C | C | C | I |
 | Code reviews | I | I | I | I | R/A | C | I | C | I |
-| Design reviews | C | C | I | I | R | I | R/A | I | C |
+| Design reviews | C | C | I | I | C | I | R/A | I | C |
 | Create test plans | I | C | C | I | C | R/A | C | I | I |
 | Execute tests | I | I | I | I | C | R/A | C | C | I |
 | Bug triage | C | C | C | C | R | R/A | C | C | I |

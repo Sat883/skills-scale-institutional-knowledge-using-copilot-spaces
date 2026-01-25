@@ -30,7 +30,7 @@ Use this template to conduct effective retrospectives that drive continuous impr
 **Purpose**: Create psychological safety and focus
 
 - Welcome participants and state the retrospective's purpose
-- Remind the team of the retrospective prime directive: *"Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."*
+- Remind the team of the retrospective prime directive: *"Regardless of what we discover, we understand and believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."*
 - Review the agenda and timeboxes
 - Establish ground rules: respect, confidentiality, participation, constructive feedback
 
